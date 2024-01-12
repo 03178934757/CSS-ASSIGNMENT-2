@@ -1,0 +1,86 @@
+* {
+    background: #000;
+}
+
+@font-face {
+        font-family: mainheading ;
+        src: url(fonts/futurak.ttf);
+    }
+
+.salt  {
+font-family: mainheading;
+}
+
+p {
+    color: white;
+text-align:left 100px;
+text-align: center;
+font-size: 50px; 
+}
+
+ul > li {
+    display: inline-block;
+    color: white;
+}
+
+.menu {
+    text-align: right;
+    font-size: 20px;
+    word-spacing: 20px;
+    margin-right: 7%;
+}
+
+.franchise {
+    border-width: 2px;
+    border-style: solid;
+    word-spacing: normal;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.online {
+    word-spacing: normal;
+    border-width: 2px;
+    border-style: solid;
+    word-spacing: normal;
+    border-radius: 100px;
+    padding: 10px;
+    background: red;
+}
+
+.about {
+    word-spacing: normal;
+}
+
+
+.inner {
+    font-size: 20px;
+    color: grey;    
+}
+
+.middle {
+    text-align: center;
+    word-spacing: 30px;
+}
+
+ul > li {
+    border-width: 2px;
+    border-style: solid;
+    word-spacing: normal;
+    border-radius: 100px;
+    padding: 16px;
+}
+
+.button {
+    text-align: center;
+    word-spacing: 120px;
+}
+
+.extra {
+    line-height: 2px ;
+}
+
+.nothing {
+        font-size: 20px;
+        color: grey;
+}
